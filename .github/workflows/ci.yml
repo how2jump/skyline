@@ -65,3 +65,4 @@ jobs:
 
     - name: Delete Build Folder
       run: rm -rf app/build/
+
